@@ -1,2 +1,2 @@
 # CoreDataProject
-This is core data project
+This is core data sample

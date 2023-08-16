@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "15101F06-0A6C-4F80-A4FE-A327A84391AE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D1B2A93C-A8C4-4A67-AD2B-E242D0CFABB3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataSample/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "updateItem(student:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D1B2A93C-A8C4-4A67-AD2B-E242D0CFABB3 - f6155b6ad538a39a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataSample.ContentView.updateItem(student: CoreDataSample.Student) -&gt; ()"
+                  moduleName = "CoreDataSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/peng.j.rui/Documents/GitHub/CoreDataProject/CoreDataSample/CoreDataSample/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "D1B2A93C-A8C4-4A67-AD2B-E242D0CFABB3 - dcec11770320ab3b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in CoreDataSample.ContentView.updateItem(student: CoreDataSample.Student) -&gt; ()"
+                  moduleName = "CoreDataSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/peng.j.rui/Documents/GitHub/CoreDataProject/CoreDataSample/CoreDataSample/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "105">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5C8ABA6-C0EB-474E-9020-F73C6A145CBF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataSample/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "updateItem(student:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
